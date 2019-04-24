@@ -1,3 +1,8 @@
+# React Tic-Tac-Toe
+### Project created to learn how to use github and to study React
+
+## Below comments created automatically by `Create React App`
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
